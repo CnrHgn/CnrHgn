@@ -5,7 +5,9 @@ Hi 👋 My name is Conor Hagan
 Frontend Designer & Engineer
 ----------------------------
 -->
-### Hi, my name is Conor
+Hi, my name is Conor
+============================
+
 Frontend Designer & Engineer
 ----------------------------
 
