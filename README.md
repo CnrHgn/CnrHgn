@@ -6,8 +6,8 @@ Frontend Designer & Engineer
 ----------------------------
 -->
 ### Hi, my name is Conor
-#### Frontend Designer & Engineer
-=================================
+Frontend Designer & Engineer
+----------------------------
 
 * 🌍  I'm based in Belfast, NI
 * 🧠  I'm currently learning Sveltekit + Prisma
