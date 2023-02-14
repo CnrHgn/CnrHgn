@@ -12,7 +12,7 @@ Frontend Designer & Engineer
 ----------------------------
 
 * 🌍  I'm based in Belfast, NI
-* 🧠  I'm currently learning Sveltekit + Prisma
+* 🧠  I'm currently learning Next 13 + Prisma
 * 🌱  Current favourite stack is Vue 3 w/ Typescript, Tanstack Query, Tailwind, Node(express)
 
 <!--
